@@ -1,13 +1,12 @@
 {
   "id": "community-140-players",
   "title": "140 PLAYERS!",
-  "body": "Thank you for playing Emberbound! We just passed 140 players, and the community is growing every day. Come hang out in our Discord - share your builds, ask questions, and help shape what comes next.",
-  "hint": "Sneak peeks, patch notes, and community events happen there first.",
+  "body": "Thank you for playing Emberbound! To celebrate, there's a little surprise waiting for you in our Discord.",
   "button": {
     "label": "JOIN DISCORD",
     "url": "https://discord.gg/hTrHmmvUg4"
   },
   "startsAt": "2026-11-18T00:00:00Z",
-  "endsAt": "2027-01-01T00:00:00Z",
+  "endsAt": "2026-12-02T00:00:00Z",
   "platforms": ["ios", "android"]
 }
